@@ -35,7 +35,7 @@ const Footer = () => {
             <p>1418 River Drive, Suite 35 Cottonhall, CA 9622 United States</p>
 
             <div className="footer_address">
-              <strong> sale@uomo.com </strong>
+              <strong> sale@Lana.com </strong>
               <strong> +1 246-345-0695 </strong>
             </div>
 
@@ -137,14 +137,14 @@ const Footer = () => {
         </div>
         <div className="footer_bottom">
           <p>
-            © 2024 Uomo. All Rights Reserved | Made By{" "}
+            © 2024 Lana. All Rights Reserved | Made By{" "}
             <a
               href="https://github.com/shakti177"
               target="_blank"
               rel="noreferrer"
               style={{ color: "#C22928", textDecoration: "none" }}
             >
-              Shakti Tamrakar
+              NEXTGEN
             </a>{" "}
             with ❤️
           </p>
